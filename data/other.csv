@@ -1,0 +1,581 @@
+name,source,gender,wikidata,type
+"Allée André Feuillerat",,,,way
+"Allée Bernal",,,,way
+"Allée Cavalière",,,,relation
+"Allée César Franck",,,,way
+"Allée Charles Docteur",,,,way
+"Allée Docteur Robert Lafon",,,,relation
+"Allée Edmond Leroy",,,,way
+"Allée Fontaine de Crouts",,,,way
+"Allée Fontaine de Lartigaou",,,,way
+"Allée Fontaine des Anges",,,,way
+"Allée Jacqueline Broca",,,,way
+"Allée Jean-Claude Guérobé",,,,way
+"Allée Lacoustille",,,,relation+way
+"Allée Le Téoule",,,,way
+"Allée Mari-Martin",,,,relation
+"Allée Miradour",,,,way
+"Allée Porteteny",,,,way
+"Allée Rose des Vents",,,,way
+"Allée Saute-Ruisseau",,,,way
+"Allée Syringa",,,,way
+"Allée d'Ahusqui",,,,relation
+"Allée d'Armanet",,,,way
+"Allée d'Osteys",,,,way
+"Allée de Biarnès",,,,way
+"Allée de Brocq",,,,way
+"Allée de Caradoc",,,,way
+"Allée de Chirroy",,,,way
+"Allée de Chouhour",,,,way
+"Allée de Constantin",,,,way
+"Allée de Gibéléou",,,,way
+"Allée de Glain",,,,way
+"Allée de Gouran",,,,relation
+"Allée de Grande Borde",,,,relation
+"Allée de Haou",,,,way
+"Allée de Harriet",,,,way
+"Allée de Huire",,,,way
+"Allée de Lacay",,,,way
+"Allée de Lalanne",,,,way
+"Allée de Laplane",,,,relation
+"Allée de Lartigot",,,,way
+"Allée de Lestang",,,,way
+"Allée de Ligny",,,,way
+"Allée de Montplaisir",,,,relation+way
+"Allée de Niert",,,,way
+"Allée de Passenabe",,,,way
+"Allée de Peyras",,,,way
+"Allée de Potus",,,,way
+"Allée de Prouillata",,,,way
+"Allée de Ségure",,,,way
+"Allée de Tauzin",,,,way
+"Allée de Vicq",,,,way
+"Allée de la Brasserie",,,,way
+"Allée de la Floride",,,,way
+"Allée de la Fontaine de Bernin",,,,way
+"Allée de la Fontaine de Vignau",,,,way
+"Allée de la Glacière",,,,way
+"Allée de la Gravière",,,,way
+"Allée de la Pièce Noyée",,,,way
+"Allée de la Poterne",,,,relation
+"Allée des Bruyères",,,,way
+"Allée des Cordiers",,,,way
+"Allée des Fontaines",,,,way
+"Allée des Hauts de Saint-Hubert",,,,way
+"Allée des Pins",,,,relation
+"Allée des Platanes",,,,way
+"Allée des Roses",,,,way
+"Allée des Tarrides",,,,relation
+"Allée du Bois des Violettes",,,,way
+"Allée du Laxia",,,,relation
+"Allée du Moulin de Saint-Bernard",,,,way
+"Allée du Petit Basque",,,,way
+"Allée du Petit Hargous",,,,way
+"Allée du Petit Jeanguinan",,,,way
+"Allée du Ruisseau du Pont de Pierre",,,,way
+"Allées Boufflers",,,,way
+"Allées Paulmy",,,,way
+"Ancien Chemin de Loung",,,,way
+"Autoroute de la Côte Basque",,,,way
+"Autoroute des Landes",,,,way
+"Avenue André Grimard",,,,way
+"Avenue André Harambillet",,,,way
+"Avenue Arnaud d'Oyhenart",,,,relation
+"Avenue Arribe Labourd",,,,way
+"Avenue Beaulieu",,,,way
+"Avenue Capitaine Resplandy",,,,way
+"Avenue Chanoine Jean Lamarque",,,,way
+"Avenue Commandant William Boissel",,,,way
+"Avenue Diesse",,,,way
+"Avenue Docteur Bernard Gaudeul",,,,relation
+"Avenue Docteur Lafourcade",,,,way
+"Avenue Docteur Léon Moynac",,,,way
+"Avenue Dubrocq",,,,way
+"Avenue François Faurie",,,,relation
+"Avenue Général Ducasse",,,,way
+"Avenue Général Lafont",,,,way
+"Avenue Général Thouvenot",,,,way
+"Avenue Henri de Navarre",,,,way
+"Avenue Hiriart",,,,relation
+"Avenue Interne Jacques Loeb",,,,relation
+"Avenue Jean Darrigrand",,,,way
+"Avenue Jean Rostand",,,,relation
+"Avenue Joseph Pinatel",,,,way
+"Avenue Lafontaine",,,,relation
+"Avenue Lahubiague",,,,way
+"Avenue Léon Bonnat",,,,way
+"Avenue Lieutenant Colonel de Lassalle",,,,way
+"Avenue Maréchal Soult",,,,relation
+"Avenue Marthe Jan",,,,way
+"Avenue Maurice Goalard",,,,way
+"Avenue Monseigneur Gieure",,,,way
+"Avenue Paul Pras",,,,way
+"Avenue Pierre Loti",,,,relation
+"Avenue Raymond de Martres",,,,relation+way
+"Avenue Roger Maylie",,,,relation+way
+"Avenue Sergent Capmas",,,,relation
+"Avenue Sous-Lieutenant Iribarne",,,,way
+"Avenue Toki Eder",,,,way
+"Avenue Truc de Moy",,,,way
+"Avenue Vital Biraben",,,,way
+"Avenue d'Ilbarritz",,,,relation
+"Avenue de Beyris",,,,relation
+"Avenue de Bourroua",,,,way
+"Avenue de Cam de Prats",,,,relation
+"Avenue de Camayou",,,,way
+"Avenue de Cambo",,,,way
+"Avenue de Coumères",,,,way
+"Avenue de Lamothe",,,,way
+"Avenue de Marhum",,,,way
+"Avenue de Mounédé",,,,way
+"Avenue de Plantoun",,,,way
+"Avenue de Raspure",,,,way
+"Avenue de Rossi",,,,way
+"Avenue de Sainte-Croix",,,,way
+"Avenue de l'Iparla",,,,relation
+"Avenue de la Division Leclerc",,,,way
+"Avenue de la Légion Tchèque",,,,way
+"Avenue de la Rhune",,,,relation
+"Avenue des Arènes",,,,way
+"Avenue des Castors",,,,relation
+"Avenue des Fleurs",,,,way
+"Avenue des Lauriers",,,,way
+"Avenue des Prés",,,,way
+"Avenue des Pyrénées",,,,relation
+"Avenue des Tilleuls",,,,way
+"Avenue des Vallons",,,,relation
+"Avenue du 14 Avril 1814",,,,way
+"Avenue du 7 Août 1951",,,,way
+"Avenue du Baigura",,,,relation
+"Avenue du Banc Saint-Bernard",,,,way
+"Avenue du Bayle",,,,way
+"Avenue du Grand Basque",,,,way
+"Avenue du Mondarrain",,,,relation
+"Avenue du Polo",,,,relation
+"Avenue du Prissé",,,,relation+way
+"Bayonne Pont Grenet",,,,way
+"Boulevard Jacques Duclos",,,,way
+"Boulevard Jean d'Amou",,,,way
+"Boulevard du BAB",,,,way
+"Boulevard du Rempart Lachepaillet",,,,way
+"Carrefour Henri Arbeletche",,,,way
+"Carrefour Saint-Léon",,,,way
+"Chemin Abbé Edouard Cestac",,,,way
+"Chemin Aitaxuri",,,,relation+way
+"Chemin Errobi Alde",,,,way
+"Chemin Oelh de la Houn",,,,way
+"Chemin Pinède",,,,way
+"Chemin d'Amade",,,,way
+"Chemin d'Ansot",,,,way
+"Chemin d'Arancette",,,,way
+"Chemin d'Arans",,,,way
+"Chemin d'Estebot",,,,way
+"Chemin d'Etchéverry",,,,way
+"Chemin d'Ibos",,,,relation+way
+"Chemin de Bellevue",,,,relation
+"Chemin de Campagne",,,,relation
+"Chemin de Cazenave",,,,way
+"Chemin de Chala",,,,way
+"Chemin de Chauron",,,,way
+"Chemin de Clairoun de Bas",,,,way
+"Chemin de Clairoun de Haut",,,,way
+"Chemin de Compagnet",,,,relation+way
+"Chemin de Crouzades",,,,way
+"Chemin de Fortune",,,,relation+way
+"Chemin de Frais",,,,way
+"Chemin de Garinde",,,,relation
+"Chemin de Halage",,,,relation
+"Chemin de Halage de la Nive",,,,relation+way
+"Chemin de Hamboum",,,,way
+"Chemin de Hargous",,,,way
+"Chemin de Hausses",,,,way
+"Chemin de Hayet",,,,way
+"Chemin de Jacquemin",,,,way
+"Chemin de Jacquette",,,,way
+"Chemin de Jupiter",,,,relation+way
+"Chemin de Laborde",,,,relation
+"Chemin de Lachiste",,,,relation
+"Chemin de Laduché",,,,way
+"Chemin de Laharie",,,,way
+"Chemin de Lannot",,,,way
+"Chemin de Lasseguette",,,,way
+"Chemin de Legaby",,,,way
+"Chemin de Lestanquet",,,,way
+"Chemin de Loung",,,,way
+"Chemin de Loustaounaou",,,,way
+"Chemin de Madame",,,,way
+"Chemin de Mérignac",,,,way
+"Chemin de Mounédé",,,,way
+"Chemin de Mouqueroun",,,,way
+"Chemin de Mousserolles",,,,way
+"Chemin de Pé de Navarre",,,,relation
+"Chemin de Petit Borde",,,,way
+"Chemin de Sabalce",,,,way
+"Chemin de Sainsontan",,,,way
+"Chemin de Saint-Bernard",,,,way
+"Chemin de Saint-Étienne",,,,way
+"Chemin de Sanguinat",,,,way
+"Chemin de Trouillet",,,,way
+"Chemin de l’Étang",,,,way
+"Chemin de la Humère",,,,way
+"Chemin de la Marouette",,,,way
+"Chemin des Barthes",,,,way
+"Chemin des Cisterciennes",,,,way
+"Chemin des Hêtres",,,,relation
+"Chemin du Busquet",,,,relation
+"Chemin du Fort",,,,way
+"Chemin du Grand Basque",,,,way
+"Chemin du Grand et Petit Deyris",,,,way
+"Chemin du Moulin de Bacheforès",,,,way
+"Chemin du Moulin de Habas",,,,way
+"Chemin du Moulin de Pey",,,,way
+"Chemin du Petit Anatole",,,,way
+"Chemin du Port",,,,way
+"Cité Furtado",,,,way
+"Cité Madim",,,,way
+"Côte du Moulin",,,,way
+"Esplanade Balain",,,,way
+"Esplanade Jouandin",,,,way
+"Esplanade de Verdun",,,,way
+"Esplanade du Garage de la Nive",,,,way
+"Esplanade du Polo",,,,relation
+"Esplanade du Pont de Fer",,,,way
+"Giratoire Abbé Edouard Cestac",,,,way
+"Giratoire Albert Grenier",,,,way
+"Giratoire Alexis Etchegoyen",,,,relation
+"Giratoire Dassié",,,,way
+"Giratoire Fredo Herrera",,,,way
+"Giratoire Gaston Lesbats",,,,way
+"Giratoire Gayon",,,,way
+"Giratoire Jean Jaurès",,,,way
+"Giratoire Jeanne Harding",,,,way
+"Giratoire Marie-Thérèse Gambade",,,,relation
+"Giratoire Mario Solano",,,,way
+"Giratoire Maysouotte",,,,way
+"Giratoire Perpère",,,,way
+"Giratoire René Cuzacq",,,,way
+"Giratoire Saint-Bernard",,,,way
+"Giratoire Technocité",,,,way
+"Giratoire Xavier Beau",,,,way
+"Giratoire d’Aquitaine",,,,way
+"Giratoire de Balichon",,,,way
+"Giratoire de Bécadine",,,,way
+"Giratoire de Beyris",,,,way
+"Giratoire de Cantegrit",,,,way
+"Giratoire de Chalibardon",,,,way
+"Giratoire de Glain",,,,way
+"Giratoire de Hargous",,,,way
+"Giratoire de Lachepaillet",,,,way
+"Giratoire de Laharie",,,,way
+"Giratoire de Lestaulan",,,,way
+"Giratoire de Loung",,,,way
+"Giratoire de Maignon",,,,way
+"Giratoire de Plantoun",,,,way
+"Giratoire de Sabalce",,,,way
+"Giratoire de Saint-Crouts",,,,way
+"Giratoire de Sanguinat",,,,way
+"Giratoire de la Nautique",,,,way
+"Giratoire de la Redoute",,,,way
+"Giratoire de la Tillole",,,,way
+"Giratoire des Casquets",,,,way
+"Giratoire des Compagnons d'Emmaüs",,,,way
+"Giratoire des Marais",,,,way
+"Giratoire des Pontots",,,,way
+"Giratoire du Bastion Royal",,,,way
+"Giratoire du Marais de l'Estunard",,,,way
+"Giratoire du Moulin de Castera",,,,way
+"Giratoire du Polo",,,,way
+"Giratoire du Travail",,,,way
+"Impasse Bergeret",,,,way
+"Impasse Bernard Tambourindeguy",,,,way
+"Impasse Émile Prestat",,,,relation
+"Impasse Gambetta",,,,way
+"Impasse Gayon",,,,way
+"Impasse Henri Jeanpierre",,,,relation
+"Impasse Joseph Desarménien",,,,way
+"Impasse Joseph Latournerie",,,,way
+"Impasse Lacaze",,,,relation
+"Impasse Lamothe",,,,way
+"Impasse Paul Barroilhet",,,,way
+"Impasse Poydenot",,,,way
+"Impasse Rigaud",,,,way
+"Impasse Sous-Lieutenant de Resseguier",,,,way
+"Impasse d'Arans",,,,way
+"Impasse d'Atchinetche",,,,relation
+"Impasse de la Faïencerie",,,,relation
+"Impasse des Joncs",,,,relation
+"Impasse du Chanteur Paulus",,,,way
+"Impasse du Grand Basque",,,,way
+"Impasse du Téné",,,,way
+"La Plachotte",,,,way
+Lapurdi,,,,relation
+"Parvis Alexandre Mélissinos",,,,way
+"Parvis Étienne Cabillon",,,,way
+"Parvis des Anciens Combattants",,,,way
+"Passage Jules Mauméjean",,,,way
+"Passage Lévy",,,,way
+"Passage Pierre Forsans",,,,relation
+"Passage de l'Union",,,,relation
+"Passage de la Pusterle",,,,way
+"Passage des Menouns",,,,way
+"Passage du Service Civil",,,,way
+"Petite Rue de l'Esté",,,,way
+"Place Bernard de Lacarre",,,,way
+"Place Gandhi",,,,relation
+"Place Jacques Portes",,,,relation
+"Place Manuel Castiella",,,,way
+"Place Monseigneur Vansteenberghe",,,,way
+"Place Montaut",,,,way
+"Place Patxa",,,,way
+"Place Sainte-Ursule",,,,way
+"Place de Habas",,,,way
+"Place de l'Erebi",,,,relation
+"Place de l'Estambot",,,,way
+"Place de la Liberté",,,,way
+"Place de la République",,,,way
+"Place des Basques",,,,way
+"Place des Cinq Cantons",,,,way
+"Place des Victoires",,,,way
+"Place du Marquisat",,,,way
+"Place du Polo Beyris",,,,way
+"Place du Réduit",,,,way
+"Placette Justin Bourdaa",,,,way
+"Pont Blanc",,,,way
+"Pont Charles Vaillant",,,,way
+"Pont Henri Grenet",,,,relation
+"Pont Marengo",,,,way
+"Pont Mayou",,,,way
+"Pont Pannecau",,,,way
+"Pont Saint-Esprit",,,,way
+"Pont Saint-Frédéric",,,,way
+"Pont du Génie",,,,way
+"Quai Amiral Antoine Sala",,,,way
+"Quai Amiral Dubourdieu",,,,way
+"Quai Amiral Jaureguiberry",,,,way
+"Quai Galuperie",,,,way
+"Quai Pedros",,,,way
+"Quai des Corsaires",,,,way
+"Rond-Point Armanet",,,,way
+"Rond-Point Jorlis",,,,relation
+"Rond-Point Michel Larrouturou",,,,way
+"Rond-Point d'Amade",,,,way
+"Rond-Point d'Atchinetche",,,,way
+"Rond-Point de Compagnet",,,,way
+"Rond-Point de Jupiter",,,,way
+"Rond-Point de Lauga",,,,way
+"Rond-Point de l'Ancre",,,,way
+"Rond-Point de la Pièce-Noyée",,,,way
+"Rond-Point de la Sablère",,,,way
+"Rond-Point des Allées Marines",,,,relation+way
+"Rond-Point des Salines",,,,way
+"Rond-Point du Grand Basque",,,,way
+"Rond-Point du Seignanx",,,,way
+"Ront-Point François Dommain",,,,way
+"Route de Bassussarry",,,,relation
+"Route de Bigot",,,,way
+"Route de Maignon",,,,way
+"Route du Travail",,,,relation
+"Rue Adrien Barthe",,,,relation
+"Rue Albéric Poitrenaud",,,,way
+"Rue Alfred Boulant",,,,way
+"Rue André Bouillar",,,,way
+"Rue André Etcheverlepo",,,,way
+"Rue André Joseau",,,,way
+"Rue André Perchicot",,,,way
+"Rue Antoine Labarthe",,,,relation+way
+"Rue Argenterie",,,,way
+"Rue Arnaud Détroyat",,,,relation
+"Rue Balangué",,,,way
+"Rue Barreau de Sescars",,,,way
+"Rue Bécadine",,,,way
+"Rue Benoît Sourigues",,,,way
+"Rue Bère Hount",,,,way
+"Rue Bernadou",,,,way
+"Rue Bernède",,,,way
+"Rue Bon Secours",,,,relation
+"Rue Boura",,,,way
+"Rue Bourgneuf",,,,way
+"Rue Brigadier Muscar",,,,way
+"Rue Capitaine Pellot",,,,way
+"Rue Cardinal Godin",,,,way
+"Rue Carlito Oyarzun",,,,way
+"Rue Caroline Rimbert",,,,way
+"Rue Cassaigne",,,,way
+"Rue Chanoine Daranatz",,,,way
+"Rue Chanoine Jean Borthayre",,,,way
+"Rue Charcutière",,,,way
+"Rue Colonel Brancion",,,,way
+"Rue Corderie Bernard Lacoin",,,,way
+"Rue Corsaire Soustra",,,,way
+"Rue Denis Etcheverry",,,,way
+"Rue Docteur André Vidal",,,,way
+"Rue Docteur André Voulgre",,,,way
+"Rue Docteur Lucien Compagnon",,,,way
+"Rue Docteur Schweitzer",,,,relation
+"Rue Douer",,,,way
+"Rue Edmond Rostand",,,,relation
+"Rue Edmond Sée",,,,relation
+"Rue Édouard Ducéré",,,,way
+"Rue Ermend Bonnal",,,,relation
+"Rue Estitxu Roblès-Aranguiz",,,,relation
+"Rue Eugène Pascau",,,,way
+"Rue Ferdinand Corrèges",,,,way
+"Rue Fontaine de Guimbalet",,,,way
+"Rue Frois",,,,way
+"Rue Général Bourbaki",,,,way
+"Rue Général Eugène Bouet",,,,way
+"Rue Gleize",,,,way
+"Rue Gosse",,,,way
+"Rue Guilhamin",,,,way
+"Rue Haurena",,,,relation
+"Rue Hippolyte Lesca",,,,way
+"Rue Hugues",,,,way
+"Rue Intendant Général Lacrambe",,,,way
+"Rue Jean Marmande",,,,relation+way
+"Rue Jean Thore",,,,way
+"Rue Joseph Latxague",,,,way
+"Rue Joseph Szydlowski",,,,relation
+"Rue Lafaurie d'Etchepare",,,,way
+"Rue Lagréou",,,,way
+"Rue Lormand",,,,way
+"Rue Louis Colas",,,,relation
+"Rue Louis Seguin",,,,relation
+"Rue Madeleine Nicolas",,,,way
+"Rue Marengo",,,,way
+"Rue Marguerite Maze",,,,way
+"Rue Marie Sediey",,,,relation
+"Rue Marsan",,,,way
+"Rue Martichot",,,,way
+"Rue Maubèc",,,,way
+"Rue Mayi et Alfred Darizcuren",,,,way
+"Rue Menigne Saube Le Bile",,,,way
+"Rue Monréjau",,,,way
+"Rue Montalibet",,,,way
+"Rue Montaut",,,,way
+"Rue Neuve",,,,way
+"Rue Notre-Dame",,,,way
+"Rue Orbe",,,,way
+"Rue Pannecau",,,,way
+"Rue Passemillon",,,,way
+"Rue Paul Jean Toulet",,,,relation
+"Rue Pauline Rodrigues",,,,way
+"Rue Pelletier",,,,way
+"Rue Pierre Georges Latécoère",,,,relation
+"Rue Pierre Laporte",,,,relation
+"Rue Pierre Sabre",,,,way
+"Rue Poissonnerie",,,,way
+"Rue Pontrique",,,,way
+"Rue Port Neuf",,,,way
+"Rue Port de Bertaco",,,,way
+"Rue Port de Castets",,,,way
+"Rue Port de Suzeye",,,,way
+"Rue Poydenot",,,,way
+"Rue Raymond Sousbielle",,,,way
+"Rue Sabaterie",,,,way
+"Rue Saint-Forcet",,,,way
+"Rue Saint-Frédéric",,,,relation
+"Rue Saubiole",,,,way
+"Rue Sauveur Narbaitz",,,,way
+"Rue Séraphin Haulon",,,,relation
+"Rue Sergent Marcel Duhau",,,,way
+"Rue Suzanne Garanx",,,,way
+"Rue Tombeloli",,,,way
+"Rue Tour de Sault",,,,way
+"Rue Vainsot",,,,way
+"Rue Vasserot",,,,way
+"Rue Verdier",,,,way
+"Rue Vieille Boucherie",,,,way
+"Rue Vionnois",,,,way
+"Rue d'Arcondau",,,,way
+"Rue d'Arrousets",,,,way
+"Rue de Balichon",,,,relation
+"Rue de Baltet",,,,way
+"Rue de Barrat",,,,way
+"Rue de Belfort",,,,way
+"Rue de Candolle",,,,way
+"Rue de Char",,,,way
+"Rue de Chérubin",,,,way
+"Rue de Codry",,,,way
+"Rue de Donzac",,,,relation
+"Rue de Gassanné",,,,relation+way
+"Rue de Gramont",,,,way
+"Rue de Hillans",,,,way
+"Rue de Hiriarte",,,,relation
+"Rue de Lasseguette",,,,way
+"Rue de Lestandau",,,,relation
+"Rue de Luc",,,,way
+"Rue de Malledaille",,,,way
+"Rue de Masure",,,,relation
+"Rue de Ravignan",,,,way
+"Rue de Talouchet",,,,way
+"Rue de Tosse",,,,way
+"Rue de l'Abesque",,,,way
+"Rue de l'Arsamendi",,,,relation
+"Rue de l'Esté",,,,way
+"Rue de la Baignade",,,,way
+"Rue de la Cabotte",,,,way
+"Rue de la Cale",,,,way
+"Rue de la Caserne des Douanes",,,,way
+"Rue de la Châtaigneraie",,,,way
+"Rue de la Feuillée",,,,relation
+"Rue de la Gendarmerie",,,,way
+"Rue de la Monnaie",,,,way
+"Rue de la Nouvelle Poste",,,,relation
+"Rue de la Porcelaine",,,,way
+"Rue de la Redoute",,,,way
+"Rue de la Sablère",,,,way
+"Rue de la Salie",,,,way
+"Rue de la Tillole",,,,way
+"Rue de la Ville en Bois",,,,way
+"Rue des Augustins",,,,way
+"Rue des Carmes",,,,way
+"Rue des Champs",,,,way
+"Rue des Courlis",,,,relation
+"Rue des Dominicaines",,,,way
+"Rue des Faures",,,,way
+"Rue des Fougères",,,,way
+"Rue des Gouverneurs",,,,way
+"Rue des Graouillats",,,,way
+"Rue des Lilas",,,,way
+"Rue des Lisses",,,,way
+"Rue des Mimosas",,,,way
+"Rue des Montagnards",,,,relation
+"Rue des Padouans",,,,way
+"Rue des Peupliers",,,,way
+"Rue des Pluviers",,,,way
+"Rue des Pontots",,,,relation+way
+"Rue des Prébendés",,,,way
+"Rue des Soeurs Blanches",,,,way
+"Rue du 21 Juin 1940",,,,way
+"Rue du Bastion Royal",,,,way
+"Rue du Canal",,,,way
+"Rue du Chalibardon",,,,way
+"Rue du Foirail",,,,way
+"Rue du Grand Hargous",,,,way
+"Rue du Grand Limpou",,,,relation
+"Rue du Marais de l'Estunard",,,,relation
+"Rue du Moulin",,,,way
+"Rue du Moulin d'Aritxague",,,,way
+"Rue du Moulin de Castera",,,,way
+"Rue du Palais",,,,way
+"Rue du Pérou",,,,way
+"Rue du Pilori",,,,way
+"Rue du Sequé",,,,way
+"Rue du Télégraphe",,,,way
+"Rue du Temple",,,,way
+"Rue du Téné",,,,way
+"Rue du Trinquet",,,,way
+"Ruelle Gardin",,,,way
+"Ruelle Port-Neuf",,,,way
+"Ruelle de la Flamande",,,,way
+"Sentier Eau",,,,way
+"Sentier Flore",,,,way
+"Sentier Forestier",,,,way
+"Square Arribe Labourd",,,,way
+"Square Bergeret",,,,way
+"Square Jean Lannes",,,,way
+"Square Léo Pouzac",,,,way
+"Square Pierre Benoit",,,,relation
+"Square Pierre Simonet",,,,way
+"Square du Cèdre",,,,way
+"passage Aran Eder",,,,way
